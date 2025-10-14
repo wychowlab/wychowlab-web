@@ -54,17 +54,19 @@ Modifications from uwsampa template
 Building
 --------
 
-The requirements for building the site are:
+The requirements for building the site are now:
 
-* [Bundler][]: run `gem install bundler`
-* [Jekyll][]: run `gem install jekyll`
-* gems listed in the Gemfile - though you can comment out parts you don't need
-* [bibble][]: available on `pip`
+* [[ruby]] - I used the snap. `snap info ruby` followed by `snap install ruby --classic` (works with ruby 3.4.7). This provided `ruby.bundle`
+* Based on the Gemfile, run `ruby.bundle install`. This installs [Jekyll][] and other modules required. You can comment out parts you don't want.
+* [bibble][]: available on `pip` and I decided to use `pipx install bibble`
+* [pylatexenc][]: I decided to use `pipx install pylatexenc`
 * ssh and rsync, only if you want to deploy directly.
 
-`make` compiles the bibliography and the website content to the `docs`
+`make build` compiles the bibliography and the website content to the `docs`
 directory. To preview the site, run ``make serve`` and head to
 http://localhost:4000.
+
+Note: I do not regularly use ruby and only use python in very specific cases. There are probably better ways to set up your build environment if you use these frequently.
 
 
 Deploying to GitHub Pages

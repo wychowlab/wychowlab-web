@@ -36,9 +36,9 @@ mbalasubramanian:
 phd2022_ananya:
     display_name: "Ananya Singh (PhD 2022-now)"
     display_letter: "A"
-    webpage: 
+    webpage: "https://www.linkedin.com/in/ananya-singh-b30b9a17b/"
     role: student
-    image: /img/people/ananya.jpg
+    image: /img/people/ananya.webp
     bio: Department of Physics, University of Warwick
 
 phd_sabeeha:
@@ -50,35 +50,35 @@ phd_sabeeha:
 msc2025_abi:
     display_name: "Abi Hession (MSc 2025-2026)"
     display_letter: "A"
-    webpage: ""
+    webpage: 
     role: student
     bio: Department of Physics, University of Warwick
 
 mphys2025_kb:
     display_name: "Kacper Babiarz (MPhys 2025-2026)"
     display_letter: "K"
-    webpage: ""
+    webpage: 
     role: student
     bio: "Department of Physics, University of Warwick"
 
 msci2025_ji:
     display_name: "Josiah Idogun (MSci 2025-2026)"
     display_letter: "J"
-    webpage: ""
+    webpage: 
     role: student
     bio: "Integrated Natural Sciences, Warwick Medical School"
 
 urss2025_iu:
     display_name: "Iqrab Uddin (URSS 2025)"
     display_letter: "I"
-    webpage: ""
+    webpage: 
     role: ugrad-alum
     bio: "> MPhys"
 
 phd2024_beth:
     display_name: "Beth Bowers (MIBTP Miniproject 2024)"
     display_letter: "B"
-    webpage: ""
+    webpage: 
     role: ugrad-alum
     bio: "> MIBTP"
 
