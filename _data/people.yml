@@ -34,35 +34,49 @@ mbalasubramanian:
     bio: Centre for Mechanochemical Cell Biology, Warwick Medical School, University of Warwick
 
 phd2022_ananya:
-    display_name: "Ananya"
+    display_name: "Ananya Singh (PhD 2022-now)"
     display_letter: "A"
     webpage: 
-    role: grad
+    role: student
     image: /img/people/ananya.jpg
     bio: Department of Physics, University of Warwick
 
-phd_smalek:
-    display_name: "Sabeeha Malek"
+phd_sabeeha:
+    display_name: "Dr Sabeeha Malek"
     webpage: "https://www.researchgate.net/profile/Sabeeha-Malek-2"
     role: collab
     bio: Centre for Mechanochemical Cell Biology, Warwick Medical School, University of Warwick
 
-phdzz_you:
-    display_name: You?
-    display_letter: "?"
-    webpage: /join
-    role: grad
-    bio: See the "Join" page!
+msc2025_abi:
+    display_name: "Abi Hession (MSc 2025-2026)"
+    display_letter: "A"
+    webpage: ""
+    role: student
+    bio: Department of Physics, University of Warwick
+
+mphys2025_kb:
+    display_name: "Kacper Babiarz (MPhys 2025-2026)"
+    display_letter: "K"
+    webpage: ""
+    role: student
+    bio: "Department of Physics, University of Warwick"
+
+msci2025_ji:
+    display_name: "Josiah Idogun (MSci 2025-2026)"
+    display_letter: "J"
+    webpage: ""
+    role: student
+    bio: "Integrated Natural Sciences, Warwick Medical School"
 
 mphys2022_ab:
-    display_name: "Archie Bridgeman (MPhys 2023)"
+    display_name: "Archie Bridgeman (MPhys 2022-2023)"
     display_letter: "A"
     webpage: "https://www.linkedin.com/in/archie-bridgeman/"
     role: ugrad-alum
     bio: "> Consultancy"
 
 mphys2022_mt:
-    display_name: "Marcus Tranter (MPhys 2023)"
+    display_name: "Marcus Tranter (MPhys 2022-2023)"
     display_letter: "M"
     webpage: "https://www.linkedin.com/in/marcus-tranter/" 
     role: ugrad-alum
@@ -70,15 +84,22 @@ mphys2022_mt:
     bio: "> Consultancy"
     
 bsc2022_zs:
-    display_name: "Zachary Scott (BSc 2023)"
+    display_name: "Zachary Scott (BSc 2022-2023)"
     display_letter: "Z"
     webpage: 
     role: ugrad-alum
     bio: 
 
 bsc2022_dt:
-    display_name: "David Tobias (BSc 2023)"
+    display_name: "David Tobias (BSc 2022-2023)"
     display_letter: "D"
     webpage: "https://www.linkedin.com/in/david-tobias-202465248/"
     role: ugrad-alum
     bio: "> Actuary"
+
+phdzz_you:
+    display_name: You?
+    display_letter: "?"
+    webpage: /join
+    role: student
+    bio: See the "Join" page!

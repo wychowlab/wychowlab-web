@@ -7,8 +7,9 @@ description: |
 people:
   - ying
   - dkoester
-  - phd_smalek
+  - phd_sabeeha
   - phd2022_ananya
+  - msc2025_abi
 
 layout: project
 last-updated: 2023-08-15
