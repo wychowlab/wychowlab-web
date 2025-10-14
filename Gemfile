@@ -12,3 +12,4 @@ end
 
 gem "webrick", "~> 1.7"
 gem 'html-proofer'
+gem 'nokogiri', '>= 1.18.9'

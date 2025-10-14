@@ -4,7 +4,7 @@
 all: build
 
 BIBBLE = bibble
-JEKYLL = bundle exec jekyll
+JEKYLL = ruby.bundle exec jekyll
 
 _includes/pubs.html: bib/pubs.bib _layouts/publications.tmpl.njk
 	mkdir -p _includes
