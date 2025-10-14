@@ -68,6 +68,20 @@ msci2025_ji:
     role: student
     bio: "Integrated Natural Sciences, Warwick Medical School"
 
+urss2025_iu:
+    display_name: "Iqrab Uddin (URSS 2025)"
+    display_letter: "I"
+    webpage: ""
+    role: ugrad-alum
+    bio: "> MPhys"
+
+phd2024_beth:
+    display_name: "Beth Bowers (MIBTP Miniproject 2024)"
+    display_letter: "B"
+    webpage: ""
+    role: ugrad-alum
+    bio: "> MIBTP"
+
 mphys2022_ab:
     display_name: "Archie Bridgeman (MPhys 2022-2023)"
     display_letter: "A"
