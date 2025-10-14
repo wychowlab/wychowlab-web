@@ -12,7 +12,7 @@ _includes/pubs.html: bib/pubs.bib _layouts/publications.tmpl.njk
 	latex2text _includes/pubs_latex.html > $@
 
 build: _includes/pubs.html
-	bundle exec $(JEKYLL) -d $(SERVE_DIR)
+	$(JEKYLL) build -d $(SERVE_DIR)
 	cp CNAME $(SERVE_DIR)/CNAME
 
 # you can configure these at the shell, e.g.:
